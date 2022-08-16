@@ -10,7 +10,7 @@
 
 <hr/>
 
-How to find me :
+### How to find me :
 <div>
  <a href="https://www.linkedin.com/in/alexis-aneas-048a181b0/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
