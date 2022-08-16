@@ -8,6 +8,8 @@
 	* Speak : <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp;
 	* Learning : <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
 
+<hr/>
+
 How to find me :
 <div>
  <a href="https://www.linkedin.com/in/alexis-aneas-048a181b0/">
@@ -19,8 +21,7 @@ How to find me :
 </div>
 <hr/>
 
- <hr>
- :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="HTML" width="40" height="40"/>&nbsp;
