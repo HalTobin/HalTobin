@@ -1,4 +1,4 @@
-### Hello !
+## Hello !
 
 * Android Developer
 * Working with Java & Kotlin
@@ -21,9 +21,8 @@ How to find me :
 </div>
 <hr/>
 
-## Languages and Tools :
+### Languages and Tools :
 
-<div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="HTML" width="40" height="40"/>&nbsp;
