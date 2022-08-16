@@ -5,8 +5,8 @@
 * Currently working on an android app : [Kartoj](https://github.com/HalTobin/Mia-Vortoj)
 * Videographer in my spare time
 * Passionate about languages
-	* Speak : <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="15" height="15"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="15" height="15"/>&nbsp;
-	* Learning : <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="15" height="15"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="15" height="15"/>&nbsp;
+	* Speak : <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp;
+	* Learning : <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
 
 How to find me :
 <div>
@@ -28,4 +28,4 @@ How to find me :
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/HalTobin/HalTobin/rsc/max_icon.png" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/HalTobin/HalTobin/blob/main/rsc/max_icon.png" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
