@@ -1,6 +1,6 @@
 ## Hello !
 
-I'm Alexis Aneas, and here is a few things about me :
+I'm Alexis Aneas, and here are a few things about me :
 
 * Android Developer
 * Working with Java & Kotlin
