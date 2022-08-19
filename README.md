@@ -1,5 +1,7 @@
 ## Hello !
 
+I'm Alexis Aneas, and here is a few things about me :
+
 * Android Developer
 * Working with Java & Kotlin
 * Currently working on an android app : [Kartoj](https://github.com/HalTobin/Mia-Vortoj)
