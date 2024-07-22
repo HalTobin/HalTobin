@@ -4,11 +4,10 @@ I'm Alexis Aneas, and here are a few things about me :
 
 * Android Developer
 * Working with Java & Kotlin
-* Currently working on an android app : [Kartoj](https://github.com/HalTobin/Mia-Vortoj)
+* Working on the Legendr Android app
 * Videographer in my spare time
 * Passionate about languages
-	* Speak : <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp;
-	* Learning : <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
+	* Available in : <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
 
 <hr/>
 
