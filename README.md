@@ -30,3 +30,5 @@ I'm Alexis Aneas, and here are a few things about me :
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/HalTobin/HalTobin/blob/main/rsc/max_icon.png" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalTobin&theme=tokyonight)
