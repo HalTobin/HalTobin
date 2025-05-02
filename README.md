@@ -24,11 +24,13 @@ I'm Alexis Aneas, and here are a few things about me :
 
 ### Languages and Tools :
 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Kotlin" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/HalTobin/HalTobin/blob/main/rsc/max_icon.png" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalTobin&theme=tokyonight&layout=donut-vertical&hide=c%2B%2B,cmake&exclude_repo=BabylonNativeTest)
