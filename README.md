@@ -2,8 +2,8 @@
 
 I'm Alexis Aneas, and here are a few things about me :
 
-* Mobile and back-end Developer
-* Mostly working with Kotlin, Java and Dart for languages, and KMP, CMP, Jetpack Compose for Android, Flutter and Spring Boot
+* Native Android Developer, Cross-platform Developer (Flutter & KMP) and back-end Developer (Spring Boot)
+* Mostly working with Kotlin, Java and Dart
 * Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) Android app
 * I've previously worked at **_Puce Muse_** on the apps of the [_Méta-Librairie_](https://www.pucemuse.com/applications-monos/) using MaxMSP and JavaScript
 * Videographer in my spare time
