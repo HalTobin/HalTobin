@@ -7,7 +7,7 @@ I'm Alexis Aneas, and here are a few things about me :
 	* Mobile and Desktop Cross-platform apps (Flutter & KMP/CMP)
 	* Back-end (Spring Boot)
 * Jobs:
-	* _Started in_**2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) Android app
+	* _Started in_ **2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) Android app
 	* **2019-2022** - I've worked at **_Puce Muse_** on the apps of the [_Méta-Librairie_](https://www.pucemuse.com/applications-monos/) using MaxMSP and JavaScript
 * Videographer in my spare time
 * Passionate about languages
