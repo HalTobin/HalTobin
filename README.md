@@ -2,12 +2,14 @@
 
 I'm Alexis Aneas, and here are a few things about me :
 
-* Android Developer
-* Working with Java & Kotlin
-* Working on the Legendr Android app
+* Mobile and back-end Developer
+* Mostly working with Kotlin, Java and Dart for languages, and KMP, CMP, Jetpack Compose for Android, Flutter and Spring Boot
+* Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) Android app
+* I've previously worked at **_Puce Muse_** on the apps of the [_Méta-Librairie_](https://www.pucemuse.com/applications-monos/) using MaxMSP and JavaScript
 * Videographer in my spare time
 * Passionate about languages
-	* Available in : <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
+	* Available in: <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
+ 	* Learning: <img src="https://github.com/gosquared/flags/blob/master/src/flags/Italy/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Ukraine/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Germany/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp;
 
 <hr/>
 
