@@ -3,7 +3,7 @@
 I'm Alexis Aneas, and here are a few things about me :
 
 * I'm working mostly with Kotlin, Java and Dart, developing for the following:
-	* Native Android,
+	* Native Android
 	* Mobile and Desktop Cross-platform apps (Flutter & KMP/CMP)
 	* Back-end (Spring Boot)
 * Jobs:
