@@ -35,6 +35,7 @@ I'm Alexis Aneas, and here are a few things about me :
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Dart" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="HTML" width="40" height="40"/>&nbsp;
 #### Back-end:
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,3 +50,4 @@ I'm Alexis Aneas, and here are a few things about me :
    <img src="https://github.com/HalTobin/HalTobin/blob/main/rsc/max_icon.png" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalTobin&theme=tokyonight&layout=donut-vertical&hide=c%2B%2B,cmake&exclude_repo=BabylonNativeTest)
+
