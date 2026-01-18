@@ -51,3 +51,6 @@ I'm Alexis Aneas, and here are a few things about me :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalTobin&theme=tokyonight&layout=donut-vertical&hide=c%2B%2B,cmake&exclude_repo=BabylonNativeTest)
 
+![Top Languages](./profile/top-langs.svg)
+
+
