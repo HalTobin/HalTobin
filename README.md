@@ -46,8 +46,6 @@ I'm Alexis Aneas, and here are a few things about me :
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="HTML" width="40" height="40"/>&nbsp;
-#### Others:
-   <img src="https://github.com/HalTobin/HalTobin/blob/main/rsc/max_icon.png" title="JavaScript" alt="HTML" width="40" height="40"/>&nbsp;
 
 ![Top Languages](./profile/top-langs.svg)
 
