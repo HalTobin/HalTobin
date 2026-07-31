@@ -2,10 +2,11 @@
 
 I'm Alexis Aneas, and here are a few things about me :
 
-* I'm working mostly with Kotlin, Java and Dart, developing for the following:
+* I'm working mostly with Kotlin, Swift, Java and Dart, developing for the following:
 	* Native Android
+ 	* Native iOS UI (SwiftUI)
 	* Mobile and Desktop Cross-platform apps (Flutter & KMP/CMP)
-	* Back-end (Spring Boot)
+	* Back-end (Spring Boot, Ktor)
 * Jobs:
 	* _Started in_ **2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) Android app
 	* **2019-2022** - I've worked at **_Puce Muse_** on the apps of the [_Méta-Librairie_](https://www.pucemuse.com/applications-monos/) using MaxMSP and JavaScript
