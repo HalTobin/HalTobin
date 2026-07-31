@@ -39,6 +39,7 @@ I'm Alexis Aneas, and here are a few things about me :
    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Dart" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="HTML" width="40" height="40"/>&nbsp;
 #### Back-end:
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ktor/ktor-original.svg" title="Spring" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="HTML" width="40" height="40"/>&nbsp;
