@@ -8,8 +8,8 @@ I'm Alexis Aneas, and here are a few things about me :
 	* Mobile and Desktop Cross-platform apps (Flutter & KMP/CMP)
 	* Back-end (Spring Boot, Ktor)
 * Jobs:
-	* _Started in_ **2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) Android app and iOS app
-	* **2019-2022** - I've worked at **_Puce Muse_** on the apps of the [_Méta-Librairie_](https://www.pucemuse.com/applications-monos/) using MaxMSP and JavaScript
+	* _Started in_ **2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) [ Android ](https://play.google.com/store/apps/details?id=com.rendrsoftworks.legendr) app and [ iOS ](https://apps.apple.com/us/app/legendr-history-in-pocket/id1449627876) app
+	* **2019-2022** - I've worked at **_Puce Muse_** on the apps of the [ Mono-Malettes ](https://www.pucemuse.com/applications-monos-malettes/) using MaxMSP and JavaScript
 * Videographer in my spare time
 * Passionate about languages
 	* Available in: <img src="https://github.com/gosquared/flags/blob/master/src/flags/France/64.png" title="FlagFR" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/United-Kingdom/64.png" title="FlagUK" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Spain/64.png" title="FlagES" alt="HTML" width="20" height="20"/>&nbsp; / <img src="https://github.com/gosquared/flags/blob/master/src/flags/Russia/64.png" title="FlagRU" alt="HTML" width="20" height="20"/>&nbsp;
