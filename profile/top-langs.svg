@@ -132,7 +132,7 @@
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="47.465915342436105"
+          size="47.282235188691324"
           data-testid="lang-donut"
         />
       </g>
@@ -146,8 +146,8 @@
           stroke="#00B4AB"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="238.5897134971397"
-          size="19.176776888945003"
+          stroke-dashoffset="237.66643634255595"
+          size="19.102567989740617"
           data-testid="lang-donut"
         />
       </g>
@@ -161,8 +161,8 @@
           stroke="#b07219"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="334.9827077272839"
-          size="16.899947692141197"
+          stroke-dashoffset="333.6864159605858"
+          size="16.83454950129253"
           data-testid="lang-donut"
         />
       </g>
@@ -176,8 +176,8 @@
           stroke="#3572A5"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="419.93111015237605"
-          size="12.111101215706787"
+          stroke-dashoffset="418.30609122419276"
+          size="12.451207296558572"
           data-testid="lang-donut"
         />
       </g>
@@ -191,8 +191,8 @@
           stroke="#f1e05a"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="480.808144722211"
-          size="3.1323557926444328"
+          stroke-dashoffset="480.89268541810003"
+          size="3.1202344295689395"
           data-testid="lang-donut"
         />
       </g>
@@ -206,8 +206,8 @@
           stroke="#6866fb"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="496.5530822367729"
-          size="1.2139030681264766"
+          stroke-dashoffset="496.5766943163588"
+          size="1.2092055941480198"
           data-testid="lang-donut"
         />
       </g>
@@ -220,35 +220,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 47.47%
+        Kotlin 47.28%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart 19.18%
+        Dart 19.10%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 16.90%
+        Java 16.83%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 12.11%
+        Python 12.45%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 3.13%
+        JavaScript 3.12%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
