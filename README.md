@@ -7,11 +7,11 @@ I'm Alexis Aneas, and here are a few things about me :
  	* Native iOS UI (SwiftUI)
 	* Mobile and Desktop Cross-platform apps (Flutter & KMP/CMP)
 	* Back-end (Spring Boot, Ktor)
-* Developer of LingvaSfero, an app that promotes language learning through input (made with KMP / CMP)
+* Developer of LingvaSfero, an app that promotes language learning through input (made with KMP / CMP and Ktor)
 	* Android: https://play.google.com/store/apps/details?id=org.moineaufactory.lingvasfero&hl=fr
 	* iOS: (_coming soon_)
 * Jobs:
-	* _Started in_ **2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) [ Android ](https://play.google.com/store/apps/details?id=com.rendrsoftworks.legendr) app and [ iOS ](https://apps.apple.com/us/app/legendr-history-in-pocket/id1449627876) app
+	* _Started in_ **2023** - Currently working at **_Rendr_** on the [_Legendr_](https://www.legendr.app/) [ Android ](https://play.google.com/store/apps/details?id=com.rendrsoftworks.legendr) and [ iOS ](https://apps.apple.com/us/app/legendr-history-in-pocket/id1449627876) apps
 	* **2019-2022** - I've worked at **_Puce Muse_** on the apps of the [ Mono-Malettes ](https://www.pucemuse.com/applications-monos-malettes/) using MaxMSP and JavaScript
 * Videographer in my spare time
 * Passionate about languages
